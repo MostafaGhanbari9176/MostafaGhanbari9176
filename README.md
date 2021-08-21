@@ -35,4 +35,9 @@
 </table>
 
 ### I have experience with these
-php slim framework, Asp.MVC 5, Scrapy, PostMan, BurpSuite, Docker, Kafka, Java, C#, Illustrator, AndroidStudio, NodeJS
+- php, C#, Java, Kotlin, Python, JS, C++
+- Slim FrameWork, Scrapy, Express, ASP.MVC 5
+- PostMan, BurpSuite, Docker
+- Kafka, MQTT
+- Illustrator
+- Linux
