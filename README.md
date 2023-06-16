@@ -1,4 +1,4 @@
-<h2 align="center">I glad you are here :rose:</h2>
+<h2 align="center">welcome :rose:</h2>
 
 <table align="center" style="text-align: center">
   <thead>
@@ -12,32 +12,33 @@
   
   <tbody>
   <tr>
-  <td align="center">Android Apps</td>
-  <td align="center">NodeJS</td>
-  <td align="center">Python</td>
+  <td align="center">Node.JS web services</td>
+  <td align="center">Microservices</td>
+  <td align="center">Deno</td>
   <td align="center">Programming</td>
   </tr>
 
   <tr>
-  <td align="center">Kotlin Console Apps</td>
-  <td align="center">Docker</td>
+  <td align="center">REST-API</td>
+  <td align="center">docker</td>
   <td align="center">Linux</td>
   <td align="center">Making Things</td>
   </tr>
 
   <tr>
-  <td></td>
+  <td align="center">Crawler</td>
   <td align="center">Kafka</td>
-  <td align="center"></td>
+  <td align="center">AI</td>
   <td align="center">Thinking</td>
   </tr>
   </tbody>
 </table>
 
 ### I have experience with these
-- php, C#, Java, Kotlin, Python, JS, C++
-- Slim FrameWork, Scrapy, Express, ASP.MVC 5
-- PostMan, BurpSuite, Docker
+- JS, TS, Python, Php, SQL, HTML, CSS
+- NestJS, ExpressJS, Scrapy, Slim FrameWork
+- ES6, Socket.IO, Sequelize, Mongoose
+- Docker, PostMan, BurpSuite
 - Kafka, MQTT
 - Illustrator
 - Linux
