@@ -42,3 +42,5 @@
 - Kafka, MQTT
 - Illustrator
 - Linux
+
+<a href="https://mostafaghanbari9176.github.io/resume/"> resume file </a>
